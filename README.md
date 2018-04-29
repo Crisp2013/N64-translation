@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# N64
-# GBA
-=======
 # Nintendo 64 Korean Fan Translation
 ![ki](https://user-images.githubusercontent.com/24960466/39404839-b473d786-4bd5-11e8-8b14-d25dab415dc5.jpg)
 ## List
@@ -12,4 +8,3 @@
 
 
 ![1](https://user-images.githubusercontent.com/24960466/39407371-02189128-4c00-11e8-96cf-8e86ae50c6d4.png)
->>>>>>> 2a15096d10abd8c8116a0955658ba2780dad7ee3
