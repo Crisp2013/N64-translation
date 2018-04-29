@@ -1,0 +1,981 @@
+mushroom cup
+
+
+
+flower cup
+
+star cup
+
+
+
+special cup
+battle
+
+mushroom cup
+
+
+
+flower cup
+
+star cup
+
+
+
+special cup
+mario¤¢aceway
+
+
+choco mountain
+
+bowser's castle
+banshee boardwalk
+
+
+yoshi valley
+
+
+
+frappe snowland
+koopa troopa beach
+
+royal raceway
+
+
+luigi raceway
+
+
+moo moo farm
+
+
+
+toad's turnpike
+kalimari desert
+sherbet land
+
+
+
+rainbow road
+
+
+
+wario stadium
+
+
+block fort
+
+skyscraper
+
+double deck
+d.k.'s jungle parkway
+
+
+big donut
+
+
+mario¤¢aceway
+
+
+choco mountain
+
+bowser's castle
+banshee boardwalk
+
+
+yoshi valley
+
+
+
+frappe snowland
+koopa troopa beach
+
+royal raceway
+
+
+luigi raceway
+
+
+moo moo farm
+
+
+
+toad's turnpike
+kalimari desert
+sherbet land
+
+
+
+rainbow road
+
+
+
+wario stadium
+
+
+block fort
+
+skyscraper
+
+double deck
+d.k.'s jungle parkway
+
+
+big donut
+
+
+mario¤¢aceway
+
+
+choco mountain
+
+bowser's castle
+banshee boardwalk
+
+
+yoshi valley
+
+
+
+frappe snowland
+koopa troopa beach
+
+royal raceway
+
+
+luigi raceway
+
+
+moo moo farm
+
+
+
+toad's turnpike
+kalimari desert
+sherbet land
+
+
+
+rainbow road
+
+
+
+wario stadium
+
+
+block fort
+
+skyscraper
+
+double deck
+d.k.'s jungle parkway
+
+
+big donut
+
+
+m circuit
+
+
+mountain
+
+
+
+castle
+
+ghost
+
+
+maze
+
+
+
+snow
+
+
+
+beach
+
+
+p circuit
+
+
+l circuit
+
+
+farm
+
+
+
+highway
+desert
+
+sherbet
+rainbow
+stadium
+block
+
+
+skyscraper
+
+deck
+
+
+
+jungle
+
+doughnut
+
+
+
+
+
+
+
+
+
+none
+
+
+
+bronze
+
+silver
+
+gold
+
+
+
+MARIO
+
+
+LUIGI
+
+
+YOSHI
+
+
+KINOPIO
+D.KONG
+
+WARIO
+
+
+PEACH
+
+
+KOOPA
+
+
+MARIO
+
+
+LUIGI
+
+
+YOSHI
+
+
+TOAD
+
+
+
+D.K.
+
+
+
+WARIO
+
+
+PEACH
+
+
+BOWSER
+
+¡¼¡¼¡¼¡¼
+
+
+
+50(
+100(
+
+
+
+150(
+
+
+
+extra
+
+
+50(
+100(
+
+
+
+150(
+
+
+
+extra
+
+
+1p
+
+2players UD
+2players LR
+3players
+
+
+
+4players
+
+
+
+stereo
+
+head phone
+
+xxx
+monaural
+
+
+
+STEREO
+
+HEADPHONE
+
+
+
+
+
+
+MONO
+
+
+
+WINNER!
+LOSER!
+
+BEST RECORDS
+
+
+
+BEST LAP
+
+
+
+LAP TIME
+
+
+
+LAP 1
+
+
+LAP 2
+
+
+LAP 3
+
+
+TOTAL
+
+
+1 £ó
+
+
+
+2 £î
+
+
+
+3 £ò
+
+
+
+4 £ô
+
+
+
+5 £ô
+
+
+
+ 
+
+
+CONTINUE GAME
+
+
+RETRY
+
+
+COURSE CHANGE
+
+
+DRIVER CHANGE
+
+
+QUIT
+
+
+
+REPLAY
+
+SAVE GHOST
+
+VS MATCH RANKING
+
+
+
+BATTLE RANKING
+
+CONNECT A CONTROLLER TO SOCKET 1,
+
+
+THEN POWER ON AGAIN
+BATTLE GAME
+POP OPPOSING PLAYER'S BALLOONS
+
+WHEN ALL 3 ARE GONE,THEY ARE OUT!
+
+
+567m
+
+
+
+687m
+
+
+
+777m
+
+
+
+747m
+
+
+
+772m
+
+
+
+734m
+
+
+
+691m
+
+
+
+1025m
+
+
+717m
+
+
+
+527m
+
+
+
+1036m
+
+
+753m
+
+
+
+756m
+
+
+
+2000m
+
+
+1591m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+893m
+
+
+
+
+
+
+
+return to menu
+
+erase records for this course
+
+
+erase ghost from this course
+
+
+
+quit
+
+
+
+erase
+
+
+THE BEST RECORDS AND BEST
+
+
+LAP FOR THIS COURSE WILL BE
+ERASED.  IS THIS OK?
+
+
+
+GHOST DATA FOR THIS
+COURSE WILL BE ERASED.
+
+IS THIS OK?
+UNABLE TO ERASE 
+
+
+
+GHOST DATA
+
+RETURN TO GAME SELECT
+
+
+SOUND MODE
+
+COPY N64 CONTROLLER PAK
+ERASE ALL DATA
+
+ALL SAVED DATA WILL BE
+
+PERMANENTLY ERASED.
+ARE YOU REALLY SURE?
+
+
+
+
+
+
+
+ALL SAVED DATA
+
+HAS BEEN NOW ERASED.
+
+
+
+CONTROLLER 1 DOES NOT HAVE 
+N64 CONTROLLER PAK
+
+
+
+
+
+
+
+
+
+UNABLE TO READ 
+N64 CONTROLLER PAK DATA 
+
+
+
+FROM CONTROLLER 1
+
+
+
+
+
+
+UNABLE TO CREATE GAME DATA 
+FROM CONTROLLER 1 
+
+N64 CONTROLLER PAK
+
+
+
+
+
+UNABLE TO COPY GHOST 
+
+
+-- INSUFFICIENT FREE PAGES 
+IN CONTROLLER 1 
+
+
+
+N64 CONTROLLER PAK
+
+NO GHOST DATA 
+
+IN CONTROLLER 2 
+
+
+
+N64 CONTROLLER PAK
+
+NO MARIO KART 64 DATA 
+
+PRESENT IN CONTROLLER 2 
+
+
+
+N64 CONTROLLER PAK
+
+CONTROLLER 2 
+
+
+DOES NOT HAVE 
+
+N64 CONTROLLER PAK SET
+
+UNABLE TO READ DATA 
+
+
+
+FROM CONTROLLER 2 
+
+N64 CONTROLLER PAK
+
+UNABLE TO COPY DATA 
+
+
+
+FROM CONTROLLER 1 
+
+N64 CONTROLLER PAK
+
+UNABLE TO READ DATA 
+
+
+
+FROM CONTROLLER 2 
+
+N64 CONTROLLER PAK
+
+CONTROLLER 1
+
+
+
+CONTROLLER 2
+
+
+
+WHICH FILE DO YOU WANT TO MAKE A COPY OF?
+
+
+TO WHICH FILE DO YOU WANT TO COPY?
+
+CURRENT DATA WILL BE ERASED,
+
+
+
+IS THIS OK?
+QUIT
+
+
+
+COPY
+
+
+
+COPYING
+DATA COPY COMPLETED
+NO N64 CONTROLLER PAK DETECTED
+
+TO SAVE GHOST DATA, 
+
+
+
+INSERT N64 CONTROLLER PAK 
+
+INTO CONTROLLER 1
+
+
+UNABLE TO READ 
+N64 CONTROLLER PAK DATA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSUFFICIENT FREE PAGES AVAILABLE 
+
+IN N64 CONTROLLER PAK TO CREATE 
+
+
+
+GAME DATA, PLEASE FREE 121 PAGES.
+
+
+SEE INSTRUCTION BOOKLET FOR DETAILS.
+
+
+
+TO SAVE GHOST DATA, 
+
+
+
+INSERT N64 CONTROLLER PAK 
+
+INTO CONTROLLER 1
+
+
+N64 CONTROLLER PAK 
+NOT DETECTED. 
+
+IF YOU WANT TO SAVE 
+
+
+
+THE GHOST DATA, 
+
+
+
+PLEASE INSERT 
+
+N64 CONTROLLER PAK 
+INTO CONTROLLER 1
+
+
+
+
+
+
+UNABLE TO SAVE 
+     THE GHOST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UNABLE TO SAVE 
+     THE GHOST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSUFFICIENT 
+
+
+FREE PAGES AVAILABLE 
+
+
+
+
+
+
+-- GHOST DATA 
+
+COULD NOT BE SAVED
+
+
+
+
+
+
+
+
+
+
+
+
+
+CANNOT CREATE 
+
+     GAME DATA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THIS GHOST IS 
+
+     ALREADY SAVED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RACE DATA CANNOT 
+
+
+BE SAVED FOR GHOST
+
+SELECT THE FILE 
+
+
+
+YOU WANT TO SAVE
+
+
+
+NO DATA
+CREATING 
+
+
+MARIO KART 64 
+
+GAME DATA
+
+
+CANNOT CREATE GAME DATA
+
+
+
+
+
+
+
+
+THE PREVIOUS DATA 
+
+WILL BE ERASED, 
+
+
+
+IS THIS OK?
+QUIT
+
+
+
+SAVE
+
+
+
+SAVING GHOST DATA
+
+
+
+
+
+
+PLEASE WAIT
+UNABLE TO SAVE 
+THE GHOST
+
+
+YOU ARE AWARDED THE
+GOLD CUP
+
+
+
+SILVER CUP
+
+BRONZE CUP
+
+MAYBE NEXT TIME!
+
+
+
+CONGRATULATIONS!
+
+
+
+WHAT A PITY!
+
+
+
+YOU PLACED
+
+    st
+
+    nd
+
+    rd
+
+    th
+
+    th
+
+    th
+
+    th
+
+    th
+
