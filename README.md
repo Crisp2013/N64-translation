@@ -1,3 +1,3 @@
 # N64
 
-![k](https://user-images.githubusercontent.com/24960466/39404060-dc39a03a-4bc5-11e8-8917-5e4fa2bdc9ea.jpg)
+![ki](https://user-images.githubusercontent.com/24960466/39404839-b473d786-4bd5-11e8-8b14-d25dab415dc5.jpg)
