@@ -5,3 +5,6 @@
 ##### SimCity 64 (NUS-DSCK-KOR) [Work in Process]
 ##### Mario Kart 64 (NUS-NKTK-KOR) [Work in Process]
 ##### Mario Artist Paint Studio (NUS-DMPK-KOR) [Work in Process]
+
+
+![1](https://user-images.githubusercontent.com/24960466/39407371-02189128-4c00-11e8-96cf-8e86ae50c6d4.png)
