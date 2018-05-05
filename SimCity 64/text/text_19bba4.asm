@@ -1,3 +1,40 @@
+TextStyle1 0x19B1F4,"＊＊＊＊＊＊＊＊\e"
+TextStyle1 0x19B208,"？？？？？？？？\e"
+
+
+TextStyle1 0x19BBA4,"セーブ중です。\nディスクを발かないでください。\e"
+TextStyle1 0x19BBD4,"セーブが완료しました。\e"
+TextStyle1 0x19BBED,""
+			.string 0x01,"-",0x02,"にデータを상서きしてよろしいですか？\e"
+TextStyle1 0x19BC18,"ＡＢＣＤＥＦＧＨ\e"
+TextStyle1 0x19BC2C,"１２３４５６７８\e"
+TextStyle1 0x19BC48,"はい\e"
+TextStyle1 0x19BC50,"いいえ\e"
+TextStyle1 0x19BC5C,"あと？？？년\e"
+TextStyle1 0x19BC6C,"あと？？년\e"
+TextStyle1 0x19BC78,"？？？\e"
+TextStyle1 0x19BC80,"＄＄＄\e"
+TextStyle1 0x19BC88,"？？\e"
+TextStyle1 0x19BC90,"＄＄\e"
+TextStyle1 0x19BC98,"＠\e"
+TextStyle1 0x19BC9C,"＃\e"
+TextStyle1 0x19BCA0,"０인\e"
+TextStyle1 0x19BCA8,"＆＆＆＆년\e"
+TextStyle1 0x19BCB4,"％％\e"
+TextStyle1 0x19BCBC,"＄±±±±±\e"
+TextStyle1 0x19BCCC,"？？？？？\e"
+TextStyle1 0x19BCD8,"부족\e"
+TextStyle1 0x19BCE0,"충분\e"
+TextStyle1 0x19BCE8,"なし　　　　\e"
+TextStyle1 0x19BCF8,"（\e"
+TextStyle1 0x19BCFC,"）\e"
+TextStyle1 0x19BD08,"０１２３４５６７８９\e"
+TextStyle1 0x19BD20,"＄１１１１\e"
+TextStyle1 0x19BD2C,"＄２２２２\e"
+TextStyle1 0x19BD38,"＄３３３３\e"
+
+
+
 ; 19BBA4	19BD48	
 ; 1		セーブ中です。\LineBreak\ディスクを抜かないでください。\End\
 ; 2		セーブが完了しました。\End\
