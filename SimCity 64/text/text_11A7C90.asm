@@ -1,10 +1,11 @@
 
-TextStyle1 0x11A7C90,"취임おめでとうございます。\n"
-            .stringn "조역を근めさせていただく、\n"
-            .stringn "∫∬ライトと신します。\e"
-TextStyle1 0x11A7CE0,"このシナリオモードでは、\n"
+TextStyle1 0x11A7C90,"취임 축하드립니다.\n"
+			 .stringn "조수 역할을 맡은\n"
+			 .stringn "∫∬라이트라고 합니다.\e"
+			 
+TextStyle1 0x11A7CE0,"이 시나리오 모드에서는\n"
             .stringn "양々な가の문제점を\n"
-            .stringn "제한시간내に해결していく、\n"
+            .stringn "제한시간내에해결していく、\n"
             .stringn "중급・상급자향けの\n"
             .stringn "치응えのあるモードです。\e"
 TextStyle1 0x11A7D54,"もし、제한시간내に목표を\n"

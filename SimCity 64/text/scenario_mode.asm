@@ -1,7 +1,7 @@
 // Scenario Text
-TextStyle1 0x11A2520,"まだ전기が보급していない시대、\n"
-            .stringn"ここフランボワーズは、\n"
-            .stringn"탄갱で진わう대도시でした。\e"
+TextStyle1 0x11A2520,"아직 전기가 보급되지 않은 시대，\n"
+            .stringn"여기 라즈베리는，\n"
+            .stringn"탄광으로 번영한 대도시였습니다．\e"
 
 TextStyle1 0x11A2574,"しかし、석유の발견により\n"
             .stringn"석탄の수요は격감……。\n"
