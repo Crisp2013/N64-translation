@@ -1,131 +1,131 @@
 // Scenario Table
-TextStyle1 0x11A6530," 시나리오１: 도시 부흥 대작전！\e"
+TextStyle1 0x11A6530," 시나리오1：도시 부흥 대작전!\e"
 
 TextStyle1 0x11A6550,"　시간제한：앞으로？？년 1920년 6월말까지\n"
-             .stringn"　달성조건：인구 １만５천명\n"
-             .stringn"　　　　　　자금 ＄５０００ 확보\n"
+             .stringn"　달성조건：인구 1만5천명\n"
+             .stringn"　　　　　　자금 ＄5000 확보\n"
              .stringn"\n"
-             .stringn"　전력공급：％％　　　　　차금：＄±±±±±\e"
+             .stringn"　전력공급：％％　　　　　차입：＄±±±±±\e"
 
-TextStyle1 0x11A65F0," 시나리오２：메이플 대공황\e"
+TextStyle1 0x11A65F0," 시나리오2：메이플 대공황\e"
 
-TextStyle1 0x11A6610,"　시간제한：앞으로？？년 １９８５년 ８월말까지\n"
-             .stringn"　달성조건：인구 ６만명\n"
-             .stringn"　　　　　　공업인구 ２만명（현재？？？？？명）\n"
+TextStyle1 0x11A6610,"　시간제한：앞으로？？년 1985년 8월말까지\n"
+             .stringn"　달성조건：인구 6만명\n"
+             .stringn"　　　　　　공업인구 2만명（현재？？？？？명）\n"
              .stringn"\n"
-             .stringn"　전력공급：％％　　　　　차금：＄±±±±±\e"
+             .stringn"　전력공급：％％　　　　　차입：＄±±±±±\e"
 
-TextStyle1 0x11A66B4," 시나리오３：상후루나 대화재\e"
+TextStyle1 0x11A66B4," 시나리오3：상후루나 대화재\e"
 
-TextStyle1 0x11A66D4,"　시간제한：앞으로？？년 １９７８년 ８월말까지\n"
-             .stringn"　달성조건：인구 ６만５천명\n"
+TextStyle1 0x11A66D4,"　시간제한：앞으로？？년 1978년 8월말까지\n"
+             .stringn"　달성조건：인구 6만5천명\n"
              .stringn"\n"
              .stringn"\n"
-             .stringn"　전력공급：％％　　　　　차금：＄±±±±±\e"
+             .stringn"　전력공급：％％　　　　　차입：＄±±±±±\e"
 
-TextStyle1 0x11A674C," 시나리오４：베이 시티\e"
+TextStyle1 0x11A674C," 시나리오4：베이 시티\e"
 
-TextStyle1 0x11A6768,"　시간제한：앞으로？？년 ２０１１년 ６월말까지\n"
-             .stringn"　달성조건：인구 ３만명\n"
+TextStyle1 0x11A6768,"　시간제한：앞으로？？년 2011년 6월말까지\n"
+             .stringn"　달성조건：인구 3만명\n"
              .stringn"　　　　　　항구의 유치＠\n"
              .stringn"　　　　　　공항의 유치＃\n"
-             .stringn"　전력공급：％％　　　　　차금：＄±±±±±\e"
+             .stringn"　전력공급：％％　　　　　차입：＄±±±±±\e"
 
-TextStyle1 0x11A680C," 시나리오５：다시 신뢰를\e"
+TextStyle1 0x11A680C," 시나리오5：다시 신뢰를\e"
 
-TextStyle1 0x11A6828,"　시간제한：앞으로？？년 １９９５년 ２월말까지\n"
-             .stringn"　달성조건：복지도 １８０이상（현재？？？）\n"
-             .stringn"　　　　　　자금 ＄７０００ 확보\n"
+TextStyle1 0x11A6828,"　시간제한：앞으로？？년 1995년 2월말까지\n"
+             .stringn"　달성조건：복지도 180이상（현재？？？）\n"
+             .stringn"　　　　　　자금 ＄7000 확보\n"
              .stringn"\n"
-             .stringn"　전력공급：％％　　　　　차금：＄±±±±±\e"
+             .stringn"　전력공급：％％　　　　　차입：＄±±±±±\e"
 
-TextStyle1 0x11A68D8," 시나리오６：카라멜 산불\e"
+TextStyle1 0x11A68D8," 시나리오6：카라멜 산불\e"
 
-TextStyle1 0x11A68F4,"　시간제한：앞으로？？년 ２００３년 １１월말까지\n"
-             .stringn"　달성조건：인구 ３만명\n"
-             .stringn"　　　　　　부상자의 치료（앞으로？？？０명）\n"
+TextStyle1 0x11A68F4,"　시간제한：앞으로？？년 2003년 11월말까지\n"
+             .stringn"　달성조건：인구 3만명\n"
+             .stringn"　　　　　　부상자의 치료（앞으로？？？0명）\n"
              .stringn"\n"
-             .stringn"　전력공급：％％　　　　　차금：＄±±±±±\e"
+             .stringn"　전력공급：％％　　　　　차입：＄±±±±±\e"
 
-TextStyle1 0x11A6994," 시나리오７：카밀레 대정전\e"
+TextStyle1 0x11A6994," 시나리오7：카밀레 대정전\e"
 
-TextStyle1 0x11A69B4,"　시간제한：앞으로？？년 ２０３８년 １２월말까지\n"
-             .stringn"　달성조건：인구 １５만５천명\n"
+TextStyle1 0x11A69B4,"　시간제한：앞으로？？년 2038년 12월말까지\n"
+             .stringn"　달성조건：인구 15만5천명\n"
              .stringn"　　　　　　마이크로파 발전소 설치＠\n"
              .stringn"\n"
-             .stringn"　전력공급：％％　　　　　차금：＄±±±±±\e"
+             .stringn"　전력공급：％％　　　　　차입：＄±±±±±\e"
 
-TextStyle1 0x11A6A54," 시나리오８：베르가모 대진재\e"
+TextStyle1 0x11A6A54," 시나리오8：베르가모 대진재\e"
 
-TextStyle1 0x11A6A70,"　시간제한：앞으로？？년 １９９９년 １０월말까지\n"
-             .stringn"　달성조건：인구 ７만５천명\n"
-             .stringn"　　　　　　방재도 ３８０이상（현재？？？）\n"
+TextStyle1 0x11A6A70,"　시간제한：앞으로？？년 1999년 10월말까지\n"
+             .stringn"　달성조건：인구 7만5천명\n"
+             .stringn"　　　　　　방재도 380이상（현재？？？）\n"
              .stringn"\n"
-             .stringn"　전력공급：％％　　　　　차금：＄±±±±±\e"
+             .stringn"　전력공급：％％　　　　　차입：＄±±±±±\e"
 
-TextStyle1 0x11A6B14," 시나리오９：극동 올림픽\e"
+TextStyle1 0x11A6B14," 시나리오9：극동 올림픽\e"
 
-TextStyle1 0x11A6B34,"　시간제한：앞으로？？년　１９７９년３월말까지\n"
-             .stringn"　달성조건：인구 ２만명\n"
-             .stringn"　　　　　　관광도 ３５이상（현재？？？）\n"
+TextStyle1 0x11A6B34,"　시간제한：앞으로？？년　1979년3월말까지\n"
+             .stringn"　달성조건：인구 2만명\n"
+             .stringn"　　　　　　관광도 35이상（현재？？？）\n"
              .stringn"\n"
-             .stringn"　전력공급：％％　　　　　차금：＄±±±±±\e"
+             .stringn"　전력공급：％％　　　　　차입：＄±±±±±\e"
 
-TextStyle1 0x11A6BD0," 시나리오１０：아로마 호수마을\e"
+TextStyle1 0x11A6BD0," 시나리오10：아로마 호수마을\e"
 
-TextStyle1 0x11A6BF0,"　시간제한：앞으로？？년１９７３년１０월말까지\n"
-             .stringn"　달성조건：인구 ２만５천명\n"
+TextStyle1 0x11A6BF0,"　시간제한：앞으로？？년1973년10월말까지\n"
+             .stringn"　달성조건：인구 2만5천명\n"
              .stringn"\n"
              .stringn"\n"
-             .stringn"　전력공급：％％　　　　　차금：＄±±±±±\e"
+             .stringn"　전력공급：％％　　　　　차입：＄±±±±±\e"
 
-TextStyle1 0x11A6C6C," 시나리오１１：메이플의 상처\e"
+TextStyle1 0x11A6C6C," 시나리오11：메이플의 상처\e"
 
-TextStyle1 0x11A6C8C,"　시간제한：앞으로？？년　１９９４년５월말까지\n"
-             .stringn"　달성조건：인구 ７만명\n"
-             .stringn"　　　　　　차금 반제＠\n"
-             .stringn"　　　　　　복지도６２０이상（현재＄＄＄）\n"
-             .stringn"　전력공급：％％　　　　　차금：＄±±±±±\e"
+TextStyle1 0x11A6C8C,"　시간제한：앞으로？？년　1994년5월말까지\n"
+             .stringn"　달성조건：인구 7만명\n"
+             .stringn"　　　　　　차입 반제＠\n"
+             .stringn"　　　　　　복지도620이상（현재＄＄＄）\n"
+             .stringn"　전력공급：％％　　　　　차입：＄±±±±±\e"
 
-TextStyle1 0x11A6D44," 시나리오１２：볼케이노\e"
+TextStyle1 0x11A6D44," 시나리오12：볼케이노\e"
 
-TextStyle1 0x11A6D5C,"　시간제한：앞으로？？년　２０１２년７월말까지\n"
-             .stringn"　달성조건：인구 １３만５천명\n"
-             .stringn"　　　　　　부상자 치료（앞으로？？？０인）\n"
-             .stringn"　　　　　　방재도 ７００이상（현재＄＄＄）\n"
-             .stringn"　전력공급：％％　　　　　차금：＄±±±±±\e"
+TextStyle1 0x11A6D5C,"　시간제한：앞으로？？년　2012년7월말까지\n"
+             .stringn"　달성조건：인구 13만5천명\n"
+             .stringn"　　　　　　부상자 치료（앞으로？？？0인）\n"
+             .stringn"　　　　　　방재도 700이상（현재＄＄＄）\n"
+             .stringn"　전력공급：％％　　　　　차입：＄±±±±±\e"
 
-TextStyle1 0x11A6E2C," 시나리오１３：메테오 크라이시스\e"
+TextStyle1 0x11A6E2C," 시나리오13：메테오 크라이시스\e"
 
-TextStyle1 0x11A6E4C,"　시간제한：앞으로？？년２０１３년１０월말까지\n"
-             .stringn"　달성조건：인구　１２만５천명\n"
-             .stringn"　　　　　　부상자 치료（あと？？？０인）\n"
-             .stringn"　　　　　　복지도 ８００이상（현재＄＄＄）\n"
-             .stringn"　전력공급：％％　　　　　차금：＄±±±±±\e"
+TextStyle1 0x11A6E4C,"　시간제한：앞으로？？년2013년10월말까지\n"
+             .stringn"　달성조건：인구　12만5천명\n"
+             .stringn"　　　　　　부상자 치료（あと？？？0인）\n"
+             .stringn"　　　　　　복지도 800이상（현재＄＄＄）\n"
+             .stringn"　전력공급：％％　　　　　차입：＄±±±±±\e"
 
-TextStyle1 0x11A6F1C," 시나리오１４：밀가 사건\e"
+TextStyle1 0x11A6F1C," 시나리오14：밀가 사건\e"
 
-TextStyle1 0x11A6F34,"　시간제한：앞으로？？년　２０１０년４월말까지\n"
-             .stringn"　달성조건：인구 １４만５천명\n"
-             .stringn"　　　　　　범죄도 ５이하（현재？？？）\n"
-             .stringn"　　　　　　관광도 １００이상（현재＄＄＄）\n"
-             .stringn"　전력공급：％％　　　　　차금：＄±±±±±\e"
+TextStyle1 0x11A6F34,"　시간제한：앞으로？？년　2010년4월말까지\n"
+             .stringn"　달성조건：인구 14만5천명\n"
+             .stringn"　　　　　　범죄도 5이하（현재？？？）\n"
+             .stringn"　　　　　　관광도 100이상（현재＄＄＄）\n"
+             .stringn"　전력공급：％％　　　　　차입：＄±±±±±\e"
 
-TextStyle1 0x11A7000," 시나리오１５：네이처\e"
+TextStyle1 0x11A7000," 시나리오15：네이처\e"
 
-TextStyle1 0x11A7020,"　시간제한：앞으로？？년　１９９８년６월말까지\n"
-             .stringn"　달성조건：인구 １０만명\n"
+TextStyle1 0x11A7020,"　시간제한：앞으로？？년　1998년6월말까지\n"
+             .stringn"　달성조건：인구 10만명\n"
              .stringn"　　　　　　수력・풍력발전소 이외에 폐지＠\n"
-             .stringn"　　　　　　자연보호도 ２８０이상（현재＄＄＄）\n"
-             .stringn"　전력공급：％％　　　　　차금：＄±±±±±\e"
+             .stringn"　　　　　　자연보호도 280이상（현재＄＄＄）\n"
+             .stringn"　전력공급：％％　　　　　차입：＄±±±±±\e"
 
-TextStyle1 0x11A70EC," 시나리오１６：해상도시탄생！\e"
+TextStyle1 0x11A70EC," 시나리오16：해상도시탄생！\e"
 
-TextStyle1 0x11A7108,"　시간제한：앞으로？？년　２０８０년１월말까지\n"
-             .stringn"　달성조건：인구 ３만명\n"
+TextStyle1 0x11A7108,"　시간제한：앞으로？？년　2080년1월말까지\n"
+             .stringn"　달성조건：인구 3만명\n"
              .stringn"\n"
              .stringn"\n"
-             .stringn"　전력공급：％％　　　　　차금：＄±±±±±\e"
+             .stringn"　전력공급：％％　　　　　차입：＄±±±±±\e"
 
 TextStyle1 0x11A717C,"これで、よろしいですか？\n"
              .stringn"　　はい\n"
@@ -138,7 +138,7 @@ TextStyle1 0x11A71B0,"……＊＊＊＊＊＊＊＊시장。\n"
              .stringn"결정した모양です。\e"
 
 TextStyle1 0x11A7220,"……＊＊＊＊＊＊＊＊시장。\n"
-             .stringn"차금の한도액をこえてしまいました\n"
+             .stringn"차입の한도액をこえてしまいました\n"
              .stringn"？？？？？？？？の재정は\n"
              .stringn"완전に파탄しましたぞ。\e"
 
@@ -172,7 +172,7 @@ TextStyle1 0x11A74C0,"このシナリオのポイントは、\n"
              .stringn"록풍かな생활환경を작ることでも\n"
              .stringn"상がるということですぞ。\e"
 
-TextStyle1 0x11A7550,"このシナリオのポイントは２つ。\n"
+TextStyle1 0x11A7550,"このシナリオのポイントは2つ。\n"
              .stringn"주변の목を벌채して、화사の확대を\n"
              .stringn"방ぐことと、조い시기から병원を\n"
              .stringn"설치しておくことですぞ。\e"
@@ -201,8 +201,8 @@ TextStyle1 0x11A7768,"このシナリオのポイントは、\n"
              .stringn"토지を구화지정출래ますぞ。\e"
 
 TextStyle1 0x11A77DC,"このシナリオのポイントは、\n"
-             .stringn"차금を상수く반제することです。\n"
-             .stringn"시まってすぐに차금を반제せず、\n"
+             .stringn"차입を상수く반제することです。\n"
+             .stringn"시まってすぐに차입を반제せず、\n"
              .stringn"가を발전させ、세수を확보してから\n"
              .stringn"반제するとよいですぞ。\e"
 
@@ -239,38 +239,38 @@ TextStyle1 0x11A7B24,"もう일도チャレンジして、\n"
              .stringn"금도こそ목표を달성してください。\e"
 
 ; 11A6530	11A7B60	
-; 1		シナリオ１：街おこし大作戦！\End\
-; 2		時間制限：あと？？年１９２０年６月末까지\LineBreak\達成条件：人口１万５千人\LineBreak\＄５０００の資金を確保する\LineBreak\\LineBreak\電力供給：％％借金：＄±±±±±\End\
-; 3		シナリオ２：メイポール大恐慌\End\
-; 4		時間制限：あと？？年１９８５年８月末까지\LineBreak\達成条件：人口６万人\LineBreak\工業人口２万人（現在？？？？？人）\LineBreak\\LineBreak\電力供給：％％借金：＄±±±±±\End\
-; 5		シナリオ３：サンルフナ大火災\End\
-; 6		時間制限：あと？？年１９７８年８月末까지\LineBreak\達成条件：人口６万５千人\LineBreak\\LineBreak\\LineBreak\電力供給：％％借金：＄±±±±±\End\
-; 7		シナリオ４：ベイシティー\End\
-; 8		時間制限：あと？？年２０１１年６月末까지\LineBreak\達成条件：人口３万人\LineBreak\海港の指定＠\LineBreak\空港の指定＃\LineBreak\電力供給：％％借金：＄±±±±±\End\
-; 9		シナリオ５：信頼をふたたび\End\
-; 10		時間制限：あと？？年１９９５年２月末까지\LineBreak\達成条件：福祉度１８０以上（現在？？？）\LineBreak\＄７０００の資金を確保する\LineBreak\\LineBreak\電力供給：％％借金：＄±±±±±\End\
-; 11		シナリオ６：カラメル山炎上\End\
-; 12		時間制限：あと？？年２００３年１１月末까지\LineBreak\達成条件：人口３万人\LineBreak\ケガ人の治療（あと？？？０人）\LineBreak\\LineBreak\電力供給：％％借金：＄±±±±±\End\
-; 13		シナリオ７：カモミール大停電\End\
-; 14		時間制限：あと？？年２０３８年１２月末까지\LineBreak\達成条件：人口１５万５千人\LineBreak\マイクロ波発電所の設置＠\LineBreak\\LineBreak\電力供給：％％借金：＄±±±±±\End\
-; 15		シナリオ８：ベルガモ大震災\End\
-; 16		時間制限：あと？？年１９９９年１０月末까지\LineBreak\達成条件：人口７万５千人\LineBreak\防災度３８０以上（現在？？？）\LineBreak\\LineBreak\電力供給：％％借金：＄±±±±±\End\
-; 17		シナリオ９：極東オリンピック\End\
-; 18		時間制限：あと？？年１９７９年３月末까지\LineBreak\達成条件：人口２万人\LineBreak\観光度３５以上（現在？？？）\LineBreak\\LineBreak\電力供給：％％借金：＄±±±±±\End\
-; 19		シナリオ１０：アロマ湖畔の開発\End\
-; 20		時間制限：あと？？年１９７３年１０月末까지\LineBreak\達成条件：人口２万５千人\LineBreak\\LineBreak\\LineBreak\電力供給：％％借金：＄±±±±±\End\
-; 21	9	シナリオ１１：メイポールの爪痕\End\
-; 22		時間制限：あと？？年１９９４年５月末까지\LineBreak\達成条件：人口７万人\LineBreak\借金の返済＠\LineBreak\福祉度６２０以上（現在＄＄＄）\LineBreak\電力供給：％％借金：＄±±±±±\End\
-; 23		シナリオ１２：ボルケーノ\End\
-; 24		時間制限：あと？？年２０１２年７月末까지\LineBreak\達成条件：人口１３万５千人\LineBreak\ケガ人の治療（あと？？？０人）\LineBreak\防災度７００以上（現在＄＄＄）\LineBreak\電力供給：％％借金：＄±±±±±\End\
-; 25		シナリオ１３：メテオクライシス\End\
-; 26		時間制限：あと？？年２０１３年１０月末까지\LineBreak\達成条件：人口１２万５千人\LineBreak\ケガ人の治療（あと？？？０人）\LineBreak\福祉度８００以上（現在＄＄＄）\LineBreak\電力供給：％％借金：＄±±±±±\End\
-; 27		シナリオ１４：ミルカ事件\End\
-; 28		時間制限：あと？？年２０１０年４月末까지\LineBreak\達成条件：人口１４万５千人\LineBreak\犯罪率５以下（現在？？？）\LineBreak\観光度１００以上（現在＄＄＄）\LineBreak\電力供給：％％借金：＄±±±±±\End\
-; 29		シナリオ１５：ネイチャーパワー\End\
-; 30		時間制限：あと？？年１９９８年６月末까지\LineBreak\達成条件：人口１０万人\LineBreak\水力・風力発電所以外の廃止＠\LineBreak\自然保護度２８０以上（現在＄＄＄）\LineBreak\電力供給：％％借金：＄±±±±±\End\
-; 31		シナリオ１６：海上都市誕生！\End\
-; 32		時間制限：あと？？年２０８０年１月末까지\LineBreak\達成条件：人口３万人\LineBreak\\LineBreak\\LineBreak\電力供給：％％借金：＄±±±±±\End\
+; 1		シナリオ1：街おこし大作戦！\End\
+; 2		時間制限：あと？？年1920年6月末까지\LineBreak\達成条件：人口1万5千人\LineBreak\＄5000の資金を確保する\LineBreak\\LineBreak\電力供給：％％借金：＄±±±±±\End\
+; 3		シナリオ2：メイポール大恐慌\End\
+; 4		時間制限：あと？？年1985年8月末까지\LineBreak\達成条件：人口6万人\LineBreak\工業人口2万人（現在？？？？？人）\LineBreak\\LineBreak\電力供給：％％借金：＄±±±±±\End\
+; 5		シナリオ3：サンルフナ大火災\End\
+; 6		時間制限：あと？？年1978年8月末까지\LineBreak\達成条件：人口6万5千人\LineBreak\\LineBreak\\LineBreak\電力供給：％％借金：＄±±±±±\End\
+; 7		シナリオ4：ベイシティー\End\
+; 8		時間制限：あと？？年2011年6月末까지\LineBreak\達成条件：人口3万人\LineBreak\海港の指定＠\LineBreak\空港の指定＃\LineBreak\電力供給：％％借金：＄±±±±±\End\
+; 9		シナリオ5：信頼をふたたび\End\
+; 10		時間制限：あと？？年1995年2月末까지\LineBreak\達成条件：福祉度180以上（現在？？？）\LineBreak\＄7000の資金を確保する\LineBreak\\LineBreak\電力供給：％％借金：＄±±±±±\End\
+; 11		シナリオ6：カラメル山炎上\End\
+; 12		時間制限：あと？？年2003年11月末까지\LineBreak\達成条件：人口3万人\LineBreak\ケガ人の治療（あと？？？0人）\LineBreak\\LineBreak\電力供給：％％借金：＄±±±±±\End\
+; 13		シナリオ7：カモミール大停電\End\
+; 14		時間制限：あと？？年2038年12月末까지\LineBreak\達成条件：人口15万5千人\LineBreak\マイクロ波発電所の設置＠\LineBreak\\LineBreak\電力供給：％％借金：＄±±±±±\End\
+; 15		シナリオ8：ベルガモ大震災\End\
+; 16		時間制限：あと？？年1999年10月末까지\LineBreak\達成条件：人口7万5千人\LineBreak\防災度380以上（現在？？？）\LineBreak\\LineBreak\電力供給：％％借金：＄±±±±±\End\
+; 17		シナリオ9：極東オリンピック\End\
+; 18		時間制限：あと？？年1979年3月末까지\LineBreak\達成条件：人口2万人\LineBreak\観光度35以上（現在？？？）\LineBreak\\LineBreak\電力供給：％％借金：＄±±±±±\End\
+; 19		シナリオ10：アロマ湖畔の開発\End\
+; 20		時間制限：あと？？年1973年10月末까지\LineBreak\達成条件：人口2万5千人\LineBreak\\LineBreak\\LineBreak\電力供給：％％借金：＄±±±±±\End\
+; 21	9	シナリオ11：メイポールの爪痕\End\
+; 22		時間制限：あと？？年1994年5月末까지\LineBreak\達成条件：人口7万人\LineBreak\借金の返済＠\LineBreak\福祉度620以上（現在＄＄＄）\LineBreak\電力供給：％％借金：＄±±±±±\End\
+; 23		シナリオ12：ボルケーノ\End\
+; 24		時間制限：あと？？年2012年7月末까지\LineBreak\達成条件：人口13万5千人\LineBreak\ケガ人の治療（あと？？？0人）\LineBreak\防災度700以上（現在＄＄＄）\LineBreak\電力供給：％％借金：＄±±±±±\End\
+; 25		シナリオ13：メテオクライシス\End\
+; 26		時間制限：あと？？年2013年10月末까지\LineBreak\達成条件：人口12万5千人\LineBreak\ケガ人の治療（あと？？？0人）\LineBreak\福祉度800以上（現在＄＄＄）\LineBreak\電力供給：％％借金：＄±±±±±\End\
+; 27		シナリオ14：ミルカ事件\End\
+; 28		時間制限：あと？？年2010年4月末까지\LineBreak\達成条件：人口14万5千人\LineBreak\犯罪率5以下（現在？？？）\LineBreak\観光度100以上（現在＄＄＄）\LineBreak\電力供給：％％借金：＄±±±±±\End\
+; 29		シナリオ15：ネイチャーパワー\End\
+; 30		時間制限：あと？？年1998年6月末까지\LineBreak\達成条件：人口10万人\LineBreak\水力・風力発電所以外の廃止＠\LineBreak\自然保護度280以上（現在＄＄＄）\LineBreak\電力供給：％％借金：＄±±±±±\End\
+; 31		シナリオ16：海上都市誕生！\End\
+; 32		時間制限：あと？？年2080年1月末까지\LineBreak\達成条件：人口3万人\LineBreak\\LineBreak\\LineBreak\電力供給：％％借金：＄±±±±±\End\
 ; 33		これで、よろしいですか？\LineBreak\はい\LineBreak\いいえ\End\
 ; 34		\End\
 ; 35		……＊＊＊＊＊＊＊＊市長。\LineBreak\制限時間をこえてしまいました。\LineBreak\残念ですが、市議会は市長の解任を\LineBreak\決定した模様です。\End\
@@ -280,7 +280,7 @@ TextStyle1 0x11A7B24,"もう일도チャレンジして、\n"
 ; 39		このシナリオは、火事の被害を\LineBreak\抑えるのがポイントです。\LineBreak\火事は建物や道路がないと\LineBreak\燃え広がらないので、周辺地域を\LineBreak\取り壊してしまうとよいですぞ。\End\
 ; 40		このシナリオのポイントは、\LineBreak\埋め立ての予算の確保です。\LineBreak\まずは余っている土地に街を作り\LineBreak\収入をある程度増やしてから、\LineBreak\埋立地を作るとよいですぞ。\End\
 ; 41		このシナリオのポイントは、\LineBreak\福祉度は病院や教育施設の\LineBreak\設置だけでなく、都市条例の制定や\LineBreak\緑豊かな生活環境を作ることでも\LineBreak\上がるということですぞ。\End\
-; 42		このシナリオのポイントは２つ。\LineBreak\周辺の木を伐採して、火事の拡大を\LineBreak\防ぐことと、早い時期から病院を\LineBreak\設置しておくことですぞ。\End\
+; 42		このシナリオのポイントは2つ。\LineBreak\周辺の木を伐採して、火事の拡大を\LineBreak\防ぐことと、早い時期から病院を\LineBreak\設置しておくことですぞ。\End\
 ; 43		このシナリオのポイントは、\LineBreak\収支がマイナスなので資金が\LineBreak\貯まらないところです。\LineBreak\税率を上げて、収支をプラスに\LineBreak\するとよいですぞ。\End\
 ; 44		このシナリオのポイントは、\LineBreak\人口を如何にして増やすかです。\LineBreak\低密度地区を高密度地区に替えたり\LineBreak\余分な道路を取り壊して区画指定\LineBreak\すると人口は増えやすいですぞ。\End\
 ; 45		このシナリオは、\LineBreak\埋立地にかかる資金を節約すること\LineBreak\がポイントです。\LineBreak\思い切って、ジュバング中央の山を\LineBreak\平坦化してみてはいかがですか？\End\
