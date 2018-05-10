@@ -1,9 +1,8 @@
 .n64
-_CART_HACK equ 1
 .if _CART_HACK==1
-.open "game/NUD-DSCJ-JPN.n64","game/NUD-DSCJ-ENG.n64", 0x000000
+.open "game/NUD-DSCJ-JPN.n64","game/NUD-DSCJ-KOR.n64", 0x000000
 .else
-.open "game/NUD-DSCJ-JPN.ndd","game/NUD-DSCJ-ENG.ndd", 0x000000
+.open "game/NUD-DSCJ-JPN.ndd","game/NUD-DSCJ-KOR.ndd", 0x000000
 .endif
 .table "sjis_2.tbl"
 //A1A1=　=>20=　
@@ -1320,7 +1319,7 @@ TextStyle1 0x11DFF90,"このままゲームを終了してよろしいですか�
 // Text Hack
 TextStyle1 0x11C74F4, "으로？？？년\e" 
 TextStyle1 0x11C7504, "으로？？년\e" 
-TextStyle1 0x11C7???, "（あと？？）\e" 
+;TextStyle1 0x11C7???, "（あと？？）\e" 
 ;TextStyle1 0x11C7???, "＠\e" 
 TextStyle1 0x11C7524, "＆＆＆＆년\e"
 

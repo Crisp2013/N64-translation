@@ -9,5 +9,7 @@ if exist game/NUD-DSCJ-JPN.n64 (
 ) else (
 	echo N64 File dose not exist!
 )
+xdelta3.exe -e -s "game/NUD-DSCJ-JPN.ndd" "game/NUD-DSCJ-KOR.ndd" NUD-DSCJ-KOR(disk).xdelta
+xdelta3.exe -e -s "game/NUD-DSCJ-JPN.n64" "game/NUD-DSCJ-KOR.n64" NUD-DSCJ-KOR(cart).xdelta
 	
 pause
