@@ -1245,6 +1245,13 @@ TextStyle1 0x190D38,"５つのシナリオをクリアしたので、\n신しい
 ; 1050504	105052C	
 ; 1		既に原子力発電所が建設されています。\End\
 
+.incbin"gfx/gfx_1050540.bin"
+.incbin"gfx/gfx_1059380.bin"
+.incbin"gfx/gfx_10621C0.bin"
+.incbin"gfx/gfx_106B000.bin"
+.incbin"gfx/gfx_1073E40.bin"
+
+
 ; 10A5284	10A5490	
 ; 1		電気を対岸に通すための送電線です。\LineBreak\２タイル以上の水場に設置出来ます。\End\
 ; 2		線路を水場に渡すための橋です。\LineBreak\電車に乗ったときに見る風景を\LineBreak\より楽しいものにします。\End\
