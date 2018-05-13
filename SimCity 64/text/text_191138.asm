@@ -1,3 +1,4 @@
+.warning "text_191138.asm scripts are missing"
 ; 191138	191308	
 ; 1		ここまでの仕事を記録しておきますか？\LineBreak\上書きセーブして続ける\LineBreak\新規にセーブして続ける\LineBreak\セーブしないで続ける\End\
 ; 2		それでは、このまま街作りを続けます。\End\

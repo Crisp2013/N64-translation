@@ -1,3 +1,4 @@
+.warning "text_6BEE60.asm scripts are missing"
 ; 6BEE60	6BEF78	
 ; 1		毒ガスマスク男\LineBreak\\End\
 ; 2		MName市長\LineBreak\\End\
