@@ -36,17 +36,17 @@ TextStyle1 0x119E144, "　달성목표：범죄를 단속하기\n"
 			 .stringn "　달성조건：인구 8만명\n"
 			 .stringn "　　　　　　경찰서 증설（あと？？）\e"
 			 
-TextStyle1 0x119E1CC, "　달성목표：시민의 마음을 풍かにする\n"
+TextStyle1 0x119E1CC, "　달성목표：시민의 마음을 풍요롭게 \n"
 			 .stringn "　시간제한：앞으로？？？년 ＆＆＆＆년 말까지\n"
 			 .stringn "　달성조건：인구 8만명\n"
 			 .stringn "　　　　　　대공원 증설（あと？？）\e"
 			 
-TextStyle1 0x119E25C, " 스텝5：エクソダス계화を실행せよ!\e"
+TextStyle1 0x119E25C, " 스텝5：엑소더스 계획을 실행하자!\e"
 
-TextStyle1 0x119E284, "　달성목표：エクソダス계화を실행하자\n"
+TextStyle1 0x119E284, "　달성목표：엑소더스 계획을 실행하자\n"
 			 .stringn "　시간제한：앞으로？？？년 ＆＆＆＆년 말까지\n"
 			 .stringn "　달성조건：인구 18만명\n"
-			 .stringn "　　　　　　エクソダスアルコ설치＠\e"
+			 .stringn "　　　　　　엑소더스 알코 설치＠\e"
 			 
 TextStyle1 0x119E314, " 스텝5：국제도시 실현!\e"
 
