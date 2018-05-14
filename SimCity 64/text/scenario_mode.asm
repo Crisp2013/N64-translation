@@ -1,207 +1,134 @@
 // Scenario Text
-TextStyle1 0x11A2520,"아직 전기가 보급되지 않은 시대，\n"
-            .stringn"여기 라즈베리는，\n"
-            .stringn"탄광으로 번영한 대도시였습니다．\e"
+//시나리오1
+TextStyle1 0x11A2520,"아직 전기가 보급되지 않은 시대, 여기 라즈베리는 탄광으로 번영한 대도시였습니다.\e"
 
-TextStyle1 0x11A2574,"しかし、석유の발견により\n"
-            .stringn"석탄の수요は격감……。\n"
-            .stringn"탄갱は차々と폐쇄され、\n"
-            .stringn"현재では과소화に뇌む\n"
-            .stringn"소さな전사가です。\e"
+TextStyle1 0x11A2574,"그러나 석유의 발견으로 석탄의 수요가 급감…….\n"
+            .stringn"탄광이 속속 폐쇄되어 현재는 과소화에 고민하는 작은 시골 거리입니다.\e"
 
-TextStyle1 0x11A25E4,"この도の시장の사사は、\n"
-            .stringn"フランボワーズを인구１만５천인の\n"
-            .stringn"활기ある가に발전させることと、\n"
-            .stringn"가の장래のために＄５０００の\n"
-            .stringn"자김を확보することです。\e"
+TextStyle1 0x11A25E4,"이번 시장의 일은, 라즈베리를 인구 1만 5천명의 활기 넘치는 거리로 발전시키는 것과 거리의 장래 때문에$5000의 자금을 확보하는 것입니다.\e"
 
-TextStyle1 0x11A2674,"フランボワーズが과소の소さな가で\n"
-            .stringn"종わるか、재び번영の도を보むかは\n"
-            .stringn"＊＊＊＊＊＊＊＊시장の완차제。\n"
-            .stringn"시민は시장の활약を기대しています\n"
-            .stringn"완장ってください。\e"
+TextStyle1 0x11A2674,"후란보 워즈가 과소의 작은 거리로 끝날지, 다시 번영의 길을 걸을 것은＊＊＊＊＊＊＊＊시장의 실력 여하. \n"
+            .stringn"시민들은 시장의 활약을 기대하고 있어요\n힘내세요.\e"
 
-TextStyle1 0x11A270C,"おめでとうございます。\n"
-            .stringn"가작りの목표、인구１만５천인と\n"
-            .stringn"＄５０００の자김の확보を\n"
-            .stringn"달성しました。\e"
+TextStyle1 0x11A270C,"축하합니다.\n"
+            .stringn"거리의 목표 인구 1만 5천명과 $5000의 자금 확보를 달성했습니다.\e"
 
-TextStyle1 0x11A276C,"”세계일の가おこし시장”\n"
-            .stringn"시민は＊＊＊＊＊＊＊＊시장を\n"
-            .stringn"そう호んで、\n"
-            .stringn"가おこしの공적を칭えています。\e"
+TextStyle1 0x11A276C,"”세계 제일의 가오코시 시장”\n"
+            .stringn"시민은 ＊＊＊＊＊＊＊＊시장을 그렇게 부르고 가오코시의 공적을 기리고 있습니다.\e"
 
-TextStyle1 0x11A27D0,"フランボワーズは、\n"
-            .stringn"재び번영の시대を영えました。\n"
-            .stringn"さすがは＊＊＊＊＊＊＊＊시장！\n"
-            .stringn"견사な수완でございます。\e"
+TextStyle1 0x11A27D0,"라즈베리는 다시 번영의 시대를 맞았습니다. \n"
+            .stringn"과연 ＊＊＊＊＊＊＊＊시장!\n"
+            .stringn"훌륭한 수완입니다.\e"
 
-TextStyle1 0x11A2838,"제한시간１０년はあっという간に\n"
-            .stringn"すぎてしまいます。\n"
-            .stringn"시간を정지させてから、\n"
-            .stringn"가작りをした방がよいですぞ。\e"
+TextStyle1 0x11A2838,"제한 시간 10년은 순식간에 지나가고 버립니다.\n"
+            .stringn"시간을 정지시킨 후, 거리 조성을 하는 것이 좋겠다.\e"
 
-TextStyle1 0x11A28A0,"それでは、\n"
-            .stringn"シナリオ１スタートです！\e"
+TextStyle1 0x11A28A0,"그럼,\n"
+            .stringn"시나리오1 스타트입니다!\e"
 
-TextStyle1 0x11A2960,"１９７０년５월……。\n"
-            .stringn"급격に주가が폭락し、\n"
-            .stringn"세계は대공황に견무われました。\e"
 
-TextStyle1 0x11A29AC,"대공황のもたらした영향は심대で、\n"
-            .stringn"ここ공업도시アッサムシティーでも\n"
-            .stringn"혹い부경기が\n"
-            .stringn"하년も속いております。\e"
+//시나리오2
+TextStyle1 0x11A2960,"1970년 5월…….\n"
+            .stringn"갑자기 주가가 폭락하면서 세계는 대공황에 휩싸였습니다.\e"
 
-TextStyle1 0x11A2A14,"この도の시장の사사は、\n"
-            .stringn"アッサムシティーの경기を립て직し\n"
-            .stringn"공업지구の인구を２만인、\n"
-            .stringn"인구を６만인に증やすことです。\e"
+TextStyle1 0x11A29AC,"대공황이 가져온 영향은 심대하며,\n"
+            .stringn"이곳 공업 도시 아삼 시티에서도 심한 불경기가 몇년이나 계속되고 있습니다.\e"
 
-TextStyle1 0x11A2A84,"공업지구の인구は、\n"
-            .stringn"도시の상세アイコンの도시グラフで\n"
-            .stringn"확인することが출래ますぞ。\n"
-            .stringn"대공황になど부けていられません！\n"
-            .stringn"がんばってください。\e"
+TextStyle1 0x11A2A14,"이번 시장의 일은 아삼 시티의 경기를 살리는 공업 지구의 인구를 2만명, 인구를 6만명으로 늘리는 것입니다.\e"
 
-TextStyle1 0x11A2B0C,"おめでとうございます。\n"
-            .stringn"가작りの목표、인구６만인と\n"
-            .stringn"공업지구の인구２만인を\n"
-            .stringn"달성しました。\e"
+TextStyle1 0x11A2A84,"공업 지구의 인구는 도시의 상세 아이콘의 도시 그래프로 확인할 수 있겠습니다!\n"
+            .stringn"대공황에 등 지고 있을 수가 없어요!\n"
+            .stringn"힘내세요.\e"
 
-TextStyle1 0x11A2B64,"アッサムシティーの시민は、\n"
-            .stringn"경기の건て직し정책を견사に\n"
-            .stringn"성공させた\n"
-            .stringn"＊＊＊＊＊＊＊＊시장に석しみない\n"
-            .stringn"박수を증っています。\e"
+TextStyle1 0x11A2B0C,"축하합니다.\n"
+            .stringn"거리의 목표 인구 6만명과 공업 지구의 인구 2만명을 달성했습니다.\e"
 
-TextStyle1 0x11A2BDC,"さすがは＊＊＊＊＊＊＊＊시장！\n"
-            .stringn"견사な수완でございます。\e"
+TextStyle1 0x11A2B64,"아삼 시티 시민들은 경기 개혁 정책을 멋지게 성공한\n"
+            .stringn"＊＊＊＊＊＊＊＊시장에게 아낌없이 박수를 보내고 있습니다.\e"
 
-TextStyle1 0x11A2C14,"공업지구の인구は、バランスよく\n"
-            .stringn"가を작らなければ증えません。\n"
-            .stringn"주댁・상업지구の지정も\n"
-            .stringn"망れてはなりませんぞ。\e"
+TextStyle1 0x11A2BDC,"과연 ＊＊＊＊＊＊＊＊시장!\n"
+            .stringn"훌륭한 수완입니다.\e"
 
-TextStyle1 0x11A2C80,"それでは、\n"
-            .stringn"シナリオ２スタートです！\e"
+TextStyle1 0x11A2C14,"공업 지구의 인구는 균형 있게 거리를 만들지 않으면 늘지 않습니다. \n"
+            .stringn"주택·상업 지구 지정도 잊어서는 안 된다.\e"
 
-TextStyle1 0x11A2D40,"１９６８년８월、고도サンルフナは\n"
-            .stringn"사상최악といわれる대규모な\n"
-            .stringn"도시화재に습われました。\e"
+TextStyle1 0x11A2C80,"그럼,\n"
+            .stringn"시나리오2 스타트입니다!\e"
 
-TextStyle1 0x11A2D98,"サンルフナは력사적건축물が\n"
-            .stringn"다くあることで유명な가。\n"
-            .stringn"このままでは귀중な문화유산が\n"
-            .stringn"실われてしまいます。\e"
+//시나리오3
+TextStyle1 0x11A2D40,"1968년 8월, 고도 상루후나은 사상 최악이라고 불리는 대규모 도시 화재에 습격당했습니다.\e"
 
-TextStyle1 0x11A2E00,"この도の시장の사사は、\n"
-            .stringn"いち조く화재を소し지め、\n"
-            .stringn"가を인구６만５천인にまで\n"
-            .stringn"복흥させることです。\e"
+TextStyle1 0x11A2D98,"상루후나은 역사적 건축물이 많기로 유명한 거리.\n"
+            .stringn"이대로는 귀중한 문화 유산이 잃어버리게 됩니다.\e"
 
-TextStyle1 0x11A2E60,"さあ、일각の유여もありません。\n"
-            .stringn"시민と문화유산を수るために\n"
-            .stringn"지급、소화활동を\n"
-            .stringn"개시してください。\e"
+TextStyle1 0x11A2E00,"이번 시장의 일은 빨리 화재를 진압하는 거리를 인구 6만 5천명으로 부흥시키는 것입니다.。\e"
 
-TextStyle1 0x11A2EC0,"おめでとうございます。\n"
-            .stringn"시장の랭정で적확な지시のおかげで\n"
-            .stringn"대화재の피해は최소한に억えられ、\n"
-            .stringn"가작りの목표、인구６만５천인を\n"
-            .stringn"달성しました。\e"
+TextStyle1 0x11A2E60,"자, 일각의 유예도 없습니다.\n"
+            .stringn"시민과 문화 유산을 지키기 위해서 시급한 소화 활동을 시작하세요.\e"
 
-TextStyle1 0x11A2F48,"국가は시장の우れた지도력を\n"
-            .stringn"절찬しておりますぞ！\e"
+TextStyle1 0x11A2EC0,"축하합니다.\n"
+            .stringn"시장의 냉정하고 적절한 지시 덕분에 대화재의 피해는 최소화하고 거리의 목표 인구 6만 5천명을 달성했습니다.\e"
 
-TextStyle1 0x11A2F78,"さすがは＊＊＊＊＊＊＊＊시장！\n"
-            .stringn"견사な수완でございます。\e"
+TextStyle1 0x11A2F48,"국가는 시장의 뛰어난 지도력을 극찬하고 있습니다!\e"
 
-TextStyle1 0x11A2FB0,"화재はＲボタン＋Ｃボタン∪で\n"
-            .stringn"표시されるマップの\n"
-            .stringn"소방력범위を사うと、\n"
-            .stringn"확인しやすいですぞ。\e"
+TextStyle1 0x11A2F78,"과연 ＊＊＊＊＊＊＊＊시장!\n"
+            .stringn"훌륭한 수완입니다.\e"
 
-TextStyle1 0x11A300C,"それでは、\n"
-            .stringn"シナリオ３スタートです！\e"
+TextStyle1 0x11A2FB0,"화재는 R버튼+C버튼 ∪으로 표시되는 맵의 소방력 범위를 사용하면 확인하기 쉽습니다.\e"
 
-TextStyle1 0x11A30C0,"작금、세간では인구の증가による\n"
-            .stringn"주댁부족や도시の과밀화が\n"
-            .stringn"문제시されています。\e"
+TextStyle1 0x11A300C,"그럼,\n"
+            .stringn"시나리오3 스타트입니다!\e"
 
-TextStyle1 0x11A3110,"この문제に대し정부は、\n"
-            .stringn"リプトン만を매め립て、\n"
-            .stringn"근대도시を개발し해결していく\n"
-            .stringn"という방침を시しました。\e"
+//시나리오4
+TextStyle1 0x11A30C0,"요즘 세상에서는 인구 증가에 따른 주택 부족과 도시의 과밀화가 문제시되고 있습니다.\e"
 
-TextStyle1 0x11A3174,"この도の시장の사사は、\n"
-            .stringn"リプトン만に매립지を작り、\n"
-            .stringn"ニューラベンダーを공항と해항の\n"
-            .stringn"비わった인구３만인の근대도시に\n"
-            .stringn"することです。\e"
+TextStyle1 0x11A3110,"이 문제에 대한 정부는 립튼 만을 매립, 근대 도시 개발을 해결한다는 방침을 나타냈습니다.\e"
 
-TextStyle1 0x11A31F4,"この화には국가の위신が\n"
-            .stringn"かかっておりますぞ！\n"
-            .stringn"がんばってください。\e"
+TextStyle1 0x11A3174,"이번 시장의 일은 리프 턴 만에 매립지를 만들어 뉴 라벤더를 공항과 항구의 갖춘 인구 3만명의 근대 도시로 만드는 것입니다.\e"
 
-TextStyle1 0x11A3238,"おめでとうございます。\n"
-            .stringn"가작りの목표、인구３만인と\n"
-            .stringn"공항・해항の지정を달성しました。\n"
-            .stringn"시장の선やかな채배のおかげで\n"
-            .stringn"매립정책は대성공ですぞ。\e"
+TextStyle1 0x11A31F4,"이 계획에는 국가의 위신이 걸리고 있습니다!\n"
+            .stringn"힘내세요.\e"
 
-TextStyle1 0x11A32C4,"국가はこの시장の공적に대して、\n"
-            .stringn"”특별공로훈장”を증ることを\n"
-            .stringn"결정した모양です。\e"
+TextStyle1 0x11A3238,"축하합니다.\n"
+            .stringn"거리의 목표 인구 3만명과 공항 항구의 지정을 달성했습니다.\n"
+            .stringn"시장의 생생한 지휘 덕분에 토지 정책은 대성공입니다.\e"
 
-TextStyle1 0x11A3314,"さすがは＊＊＊＊＊＊＊＊시장！\n"
-            .stringn"견사な수완でございます。\e"
+TextStyle1 0x11A32C4,"국가는 시장의 공적에 대해서\n"
+            .stringn"”특별공로훈장”을 주기를 결정한 모양입니다.\e"
 
-TextStyle1 0x11A334C,"정지アイコンの토지평탄화を사えば\n"
-            .stringn"매め립ては간단に실행출래ます。\n"
-            .stringn"평탄화は천い장소の방が여산が\n"
-            .stringn"かからないので、해안선から\n"
-            .stringn"매め립てていくとよいですぞ。\e"
+TextStyle1 0x11A3314,"과연 ＊＊＊＊＊＊＊＊시장!\n"
+            .stringn"훌륭한 수완입니다.\e"
 
-TextStyle1 0x11A33E4,"それでは、\n"
-            .stringn"シナリオ４スタートです！\e"
+TextStyle1 0x11A334C,"정지 아이콘의 토지 평탄화를 사용하면 매립은 쉽게 실행 가능합니다.\n"
+            .stringn"평탄화는 얕은 곳이 예산이 많이 걸리지 않아, 해안선으로부터 매립하고 가면 좋겠다.\e"
 
-TextStyle1 0x11A34A0,"＊＊＊＊＊＊＊＊시장……。\n"
-            .stringn"ここユーカリヒルでは\n"
-            .stringn"전시장の오직사건のせいで、\n"
-            .stringn"시민は시정に대して강い부신を\n"
-            .stringn"포いています。\e"
+TextStyle1 0x11A33E4,"그럼,\n"
+            .stringn"시나리오4 스타트입니다!\e"
 
-TextStyle1 0x11A3518,"この도の시장の사사は、\n"
-            .stringn"전시장の오직の배상のために\n"
-            .stringn"＄７０００の자김を확보することと\n"
-            .stringn"시민の신뢰を취り태すために\n"
-            .stringn"복지도を１８０にすることです。\e"
+//시나리오5
+TextStyle1 0x11A34A0,"＊＊＊＊＊＊＊＊시장…….\n"
+            .stringn"여기 유칼리 힐에서는 전 시장의 비리 사건 때문에 시민은 시정에 대해서 강한 불신을 품고 있습니다.\e"
 
-TextStyle1 0x11A35A8,"주みよい가작りを속ければ、\n"
-            .stringn"시장の성의は시민に전わるはずです\n"
-            .stringn"시민の신뢰を취り태すために\n"
-            .stringn"がんばってください。\e"
+TextStyle1 0x11A3518,"이번 시장의 일은 전 시장의 독직을 배상하기 때문에 $7000의 자금을 확보하게 시민의 신뢰를 되찾기 위해서 복지도를 180에게 하는 것입니다.\e"
 
-TextStyle1 0x11A3614,"おめでとうございます。\n"
-            .stringn"가작りの목표、복지도１８０이상と\n"
-            .stringn"＄７０００の자김の확보を\n"
-            .stringn"달성しました。\e"
+TextStyle1 0x11A35A8,"살기 좋은 거리를 계속하면 시장의 성의는 시민들에게 전해질 것입니다\n"
+            .stringn"시민의 신뢰를 되찾기 위해서 열심히 하세요.\e"
 
-TextStyle1 0x11A3674,"시장の소청らしい가작りにより、\n"
-            .stringn"시민の신뢰を취り태せましたぞ。\e"
+TextStyle1 0x11A3614,"축하합니다.\n"
+            .stringn"거리의 목표, 복지도 180이상으로$7000의 자금 확보를 달성했습니다.\e"
 
-TextStyle1 0x11A36B4,"さすがは＊＊＊＊＊＊＊＊시장！\n"
-            .stringn"견사な수완でございます。\e"
+TextStyle1 0x11A3674,"시장의 멋진 거리로 시민의 신뢰를 찾을 수 있었어요!\e"
 
-TextStyle1 0x11A36EC,"의료と교육を충실させれば、\n"
-            .stringn"복지정책は성공するはずです。\n"
-            .stringn"의료と교육が근부くには、\n"
-            .stringn"소々시간が필요ですぞ。\e"
+TextStyle1 0x11A36B4,"과연 ＊＊＊＊＊＊＊＊시장!\n"
+            .stringn"훌륭한 수완입니다.\e"
 
-TextStyle1 0x11A3754,"それでは、\n"
-            .stringn"シナリオ５スタートです！\e"
+TextStyle1 0x11A36EC,"의료와 교육을 충실하면 복지 정책은 성공할 겁니다.\n"
+            .stringn"의료와 교육이 뿌리 내리려면 좀 시간이 필요합니다!\e"
 
+TextStyle1 0x11A3754,"그럼,\n"
+            .stringn"시나리오5 스타트입니다!e"
+
+//시나리오6
 TextStyle1 0x11A3800,"산화사というものは、\n"
             .stringn"본당に공ろしい재해です。\n"
             .stringn"염は쇠えを지らず연え광がり\n"
@@ -705,36 +632,36 @@ TextStyle1 0x11A6464,"それでは、\n"
 ; 9		それでは、\LineBreak\シナリオ２スタートです！\End\
 		
 ; 11A2D40	11A3030	
-; 1		１９６８年８月、古都サンルフナは\LineBreak\史上最悪といわれる大規模な\LineBreak\都市火災に襲われました。\End\
-; 2		サンルフナは歴史的建築物が\LineBreak\多くあることで有名な街。\LineBreak\このままでは貴重な文化遺産が\LineBreak\失われてしまいます。\End\
-; 3		この度の市長の仕事は、\LineBreak\いち早く火災を消し止め、\LineBreak\街を人口６万５千人にまで\LineBreak\復興させることです。\End\
-; 4		さあ、一刻の猶予もありません。\LineBreak\市民と文化遺産を守るために\LineBreak\至急、消火活動を\LineBreak\開始してください。\End\
-; 5		おめでとうございます。\LineBreak\市長の冷静で的確な指示のおかげで\LineBreak\大火災の被害は最小限に抑えられ、\LineBreak\街作りの目標、人口６万５千人を\LineBreak\達成しました。\End\
-; 6		国家は市長の優れた指導力を\LineBreak\絶賛しておりますぞ！\End\
-; 7		さすがは＊＊＊＊＊＊＊＊市長！\LineBreak\見事な手腕でございます。\End\
-; 8		火災はＲボタン＋Ｃボタン∪で\LineBreak\表示されるマップの\LineBreak\消防力範囲を使うと、\LineBreak\確認しやすいですぞ。\End\
-; 9		それでは、\LineBreak\シナリオ３スタートです！\End\
-		
+	; 1		１９６８年８月、古都サンルフナは\LineBreak\史上最悪といわれる大規模な\LineBreak\都市火災に襲われました。\End\
+	; 2		サンルフナは歴史的建築物が\LineBreak\多くあることで有名な街。\LineBreak\このままでは貴重な文化遺産が\LineBreak\失われてしまいます。\End\
+	; 3		この度の市長の仕事は、\LineBreak\いち早く火災を消し止め、\LineBreak\街を人口６万５千人にまで\LineBreak\復興させることです。\End\
+	; 4		さあ、一刻の猶予もありません。\LineBreak\市民と文化遺産を守るために\LineBreak\至急、消火活動を\LineBreak\開始してください。\End\
+	; 5		おめでとうございます。\LineBreak\市長の冷静で的確な指示のおかげで\LineBreak\大火災の被害は最小限に抑えられ、\LineBreak\街作りの目標、人口６万５千人を\LineBreak\達成しました。\End\
+	; 6		国家は市長の優れた指導力を\LineBreak\絶賛しておりますぞ！\End\
+	; 7		さすがは＊＊＊＊＊＊＊＊市長！\LineBreak\見事な手腕でございます。\End\
+	; 8		火災はＲボタン＋Ｃボタン∪で\LineBreak\表示されるマップの\LineBreak\消防力範囲を使うと、\LineBreak\確認しやすいですぞ。\End\
+	; 9		それでは、\LineBreak\シナリオ３スタートです！\End\
+
 ; 11A30C0	11A3408	
-; 1		昨今、世間では人口の増加による\LineBreak\住宅不足や都市の過密化が\LineBreak\問題視されています。\End\
-; 2		この問題に対し政府は、\LineBreak\リプトン湾を埋め立て、\LineBreak\近代都市を開発し解決していく\LineBreak\という方針を示しました。\End\
-; 3		この度の市長の仕事は、\LineBreak\リプトン湾に埋立地を作り、\LineBreak\ニューラベンダーを空港と海港の\LineBreak\備わった人口３万人の近代都市に\LineBreak\することです。\End\
-; 4		この計画には国家の威信が\LineBreak\かかっておりますぞ！\LineBreak\がんばってください。\End\
-; 5		おめでとうございます。\LineBreak\街作りの目標、人口３万人と\LineBreak\空港・海港の指定を達成しました。\LineBreak\市長の鮮やかな采配のおかげで\LineBreak\埋立政策は大成功ですぞ。\End\
-; 6		国家はこの市長の功績に対して、\LineBreak\”特別功労勲章”を贈ることを\LineBreak\決定した模様です。\End\
-; 7		さすがは＊＊＊＊＊＊＊＊市長！\LineBreak\見事な手腕でございます。\End\
-; 8		整地アイコンの土地平坦化を使えば\LineBreak\埋め立ては簡単に実行出来ます。\LineBreak\平坦化は浅い場所の方が予算が\LineBreak\かからないので、海岸線から\LineBreak\埋め立てていくとよいですぞ。\End\
-; 9		それでは、\LineBreak\シナリオ４スタートです！\End\
+	; 1		昨今、世間では人口の増加による\LineBreak\住宅不足や都市の過密化が\LineBreak\問題視されています。\End\
+	; 2		この問題に対し政府は、\LineBreak\リプトン湾を埋め立て、\LineBreak\近代都市を開発し解決していく\LineBreak\という方針を示しました。\End\
+	; 3		この度の市長の仕事は、\LineBreak\リプトン湾に埋立地を作り、\LineBreak\ニューラベンダーを空港と海港の\LineBreak\備わった人口３万人の近代都市に\LineBreak\することです。\End\
+	; 4		この計画には国家の威信が\LineBreak\かかっておりますぞ！\LineBreak\がんばってください。\End\
+	; 5		おめでとうございます。\LineBreak\街作りの目標、人口３万人と\LineBreak\空港・海港の指定を達成しました。\LineBreak\市長の鮮やかな采配のおかげで\LineBreak\埋立政策は大成功ですぞ。\End\
+	; 6		国家はこの市長の功績に対して、\LineBreak\”特別功労勲章”を贈ることを\LineBreak\決定した模様です。\End\
+	; 7		さすがは＊＊＊＊＊＊＊＊市長！\LineBreak\見事な手腕でございます。\End\
+	; 8		整地アイコンの土地平坦化を使えば\LineBreak\埋め立ては簡単に実行出来ます。\LineBreak\平坦化は浅い場所の方が予算が\LineBreak\かからないので、海岸線から\LineBreak\埋め立てていくとよいですぞ。\End\
+	; 9		それでは、\LineBreak\シナリオ４スタートです！\End\
 		
 ; 11A34A0	11A3778	
-; 1		＊＊＊＊＊＊＊＊市長……。\LineBreak\ここユーカリヒルでは\LineBreak\前市長の汚職事件のせいで、\LineBreak\市民は市政に対して強い不信を\LineBreak\抱いています。\End\
-; 2		この度の市長の仕事は、\LineBreak\前市長の汚職の賠償のために\LineBreak\＄７０００の資金を確保することと\LineBreak\市民の信頼を取り戻すために\LineBreak\福祉度を１８０にすることです。\End\
-; 3		住みよい街作りを続ければ、\LineBreak\市長の誠意は市民に伝わるはずです\LineBreak\市民の信頼を取り戻すために\LineBreak\がんばってください。\End\
-; 4		おめでとうございます。\LineBreak\街作りの目標、福祉度１８０以上と\LineBreak\＄７０００の資金の確保を\LineBreak\達成しました。\End\
-; 5		市長の素晴らしい街作りにより、\LineBreak\市民の信頼を取り戻せましたぞ。\End\
-; 6		さすがは＊＊＊＊＊＊＊＊市長！\LineBreak\見事な手腕でございます。\End\
-; 7		医療と教育を充実させれば、\LineBreak\福祉政策は成功するはずです。\LineBreak\医療と教育が根付くには、\LineBreak\少々時間が必要ですぞ。\End\
-; 8		それでは、\LineBreak\シナリオ５スタートです！\End\
+	; 1		＊＊＊＊＊＊＊＊市長……。\LineBreak\ここユーカリヒルでは\LineBreak\前市長の汚職事件のせいで、\LineBreak\市民は市政に対して強い不信を\LineBreak\抱いています。\End\
+	; 2		この度の市長の仕事は、\LineBreak\前市長の汚職の賠償のために\LineBreak\＄７０００の資金を確保することと\LineBreak\市民の信頼を取り戻すために\LineBreak\福祉度を１８０にすることです。\End\
+	; 3		住みよい街作りを続ければ、\LineBreak\市長の誠意は市民に伝わるはずです\LineBreak\市民の信頼を取り戻すために\LineBreak\がんばってください。\End\
+	; 4		おめでとうございます。\LineBreak\街作りの目標、福祉度１８０以上と\LineBreak\＄７０００の資金の確保を\LineBreak\達成しました。\End\
+	; 5		市長の素晴らしい街作りにより、\LineBreak\市民の信頼を取り戻せましたぞ。\End\
+	; 6		さすがは＊＊＊＊＊＊＊＊市長！\LineBreak\見事な手腕でございます。\End\
+	; 7		医療と教育を充実させれば、\LineBreak\福祉政策は成功するはずです。\LineBreak\医療と教育が根付くには、\LineBreak\少々時間が必要ですぞ。\End\
+	; 8		それでは、\LineBreak\シナリオ５スタートです！\End\
 		
 ; 11A3800	11A3AE0	
 ; 1		山火事というものは、\LineBreak\本当に恐ろしい災害です。\LineBreak\炎は衰えを知らず燃え広がり\LineBreak\木々が失われることで、環境に\LineBreak\深刻なダメージを与えます。\End\
