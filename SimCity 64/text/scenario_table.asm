@@ -127,16 +127,16 @@ TextStyle1 0x11A7108,"　시간제한：앞으로？？년　2080년1월말까�
              .stringn"\n"
              .stringn"　전력공급：％％　　　　　차입：＄±±±±±\e"
 
-TextStyle1 0x11A717C,"これで、よろしいですか？\n"
-             .stringn"　　はい\n"
-             .stringn"　　いいえ\e"
-
+TextStyle1 0x11A717C,"이것으로 하시겠습니까?\n"
+             .stringn"　　예\n"
+             .stringn"　　아니오\e"
+//.stringn"\e"
 // Scenario Mode
-TextStyle1 0x11A71B0,"……＊＊＊＊＊＊＊＊시장。\n"
-             .stringn"제한시간をこえてしまいました。\n"
-             .stringn"잔념ですが、시의회は시장の해임を\n"
-             .stringn"결정した모양です。\e"
-
+TextStyle1 0x11A71B0,"……＊＊＊＊＊＊＊＊시장.\n"
+             .stringn"시간 제한을 넘어 버렸습니다.\n"
+             .stringn"죄송합니다만, 시의회는 시장의 해임을\n"
+             .stringn"결정한 모양입니다.\e"
+			 
 TextStyle1 0x11A7220,"……＊＊＊＊＊＊＊＊시장。\n"
              .stringn"차입の한도액をこえてしまいました\n"
              .stringn"？？？？？？？？の재정は\n"
